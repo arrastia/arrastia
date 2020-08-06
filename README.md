@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">👋 Hi, I'm Pablo!</h3>
 
-<!--
-**arrastia/arrastia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://arrastia.me/" target="_blank">Website</a> •
+  <a href="https://twitter.com/pablo.arrastia" target="_blank">Instagram</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Arrastia V 2.0 Github edition updates:</h4>
+
+<ul>
+  <li>Minor bug fixes</li>
+  <li>Improved coding algorithm</li>
+  <li>Performance enhancements: clean code</li>
+  <li>Multilingual support (JS | TS)</li>
+  <li>New picture (last trip pic added)</li>
+</ul>
