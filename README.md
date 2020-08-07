@@ -10,9 +10,9 @@
 <h4>Arrastia V 2.0 Github edition updates:</h4>
 
 <ul>
-  <li>Minor bug fixes</li>
-  <li>Improved coding algorithm</li>
-  <li>Performance enhancements: clean code</li>
-  <li>Multilingual support (JS | TS)</li>
-  <li>New picture (last trip pic added)</li>
+  <li>🐛 Minor bug fixes</li>
+  <li>👨🏻‍💻 Performance enhancements: hexagonal architecture</li>
+  <li>✍🏼 Multilingual support (JS | TS)</li>
+  <li>📸 New picture (last trip pic added)</li>
+  <li>👥 Improved problem-solving algorithm</li>
 </ul>
