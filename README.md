@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://arrastia.me/" target="_blank">Website</a> •
-  <a href="https://instagram.com/pablo.arrastia" target="_blank">Instagram</a>
+  <a href="https://instagram.com/pablo.arrastia" target="_blank">Instagram</a> • 
+  <a href="https://linkedin.com/in/pablo-arrastia-52802b175" target="_blank">Linkedin</a>
 </p>
 
 ---
